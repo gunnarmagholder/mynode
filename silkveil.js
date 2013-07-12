@@ -9,7 +9,7 @@ var mappings = {
 	},
 	'ursel': {
 		action: 'download',
-		url: 'http://www.facebook.com/photo.php?fbid=10201281285979248&l=76a440aac7',
+		url:'http://zerply.com/r/29Fe1TwL',
 		fileName: 'ursel.jpg',
 		forceDownload: false
 	}
